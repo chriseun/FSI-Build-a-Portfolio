@@ -41,7 +41,7 @@ body {
 }
 
 html{
-  cursor:inherit;
+  cursor:-webkit-grab;
 
 /* .profile-class{
   display: flex;
